@@ -1,12 +1,16 @@
-
-<p align="center">
+<div align="center">
   <img src="https://github.com/yyz13th/trvl_ui-ux/blob/main/public/trvl_prev1.gif" /> 
   <br /> 
-  <i>CAMP AREA TRAVELING WEBSITE</i>
-</p>
+  <h3 align="center">A Camp Area Traveling Website</h3>
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+  <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+</div>
 
 ## ⚙️ Tech stack:
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- Next JS 14
+- TypeScript
+- Tailwind
 
 ## 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
